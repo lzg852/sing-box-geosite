@@ -56,10 +56,10 @@ jobs:
         git add ./rule/*.txt
 
         # 检查是否有文件被修改
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-          exit 0
-        else
-          git commit -m "Update rules"
-          git push
+     #   if git diff --staged --quiet; then
+     #     echo "No changes to commit"
+    #      exit 0
+   #     else
+    #      git commit -m "Update rules"
+   #       git push
         fi
