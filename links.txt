@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GitHub/GitHub.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_IP.txt
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Google/Google.list
+https://gaoyifan.github.io/china-operator-ip/china.txt
